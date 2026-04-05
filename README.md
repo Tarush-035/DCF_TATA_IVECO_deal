@@ -21,4 +21,4 @@ Brief 3-4 lines on what this is, why it was built, and the conclusion
 - Yahoo Finance (market data)
 
 ## Disclaimer
-For analytical/educational purposes only. Not investment advice.
+For analytical/educational purposes only. This is not investment advice.
